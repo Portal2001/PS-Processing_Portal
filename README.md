@@ -103,3 +103,6 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 This script began its life as a simple WebP batch processor and has evolved significantly.
 *   Original concept and early versions by **Stephen Marsh** on the Adobe Community forums.
 *   Thanks to all community members who provided feedback and inspired new features.
+## ❤️ Support
+- [PayPal](https://www.paypal.com/paypalme/portal2001)
+- Binanceid: 1071158826
